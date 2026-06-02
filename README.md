@@ -367,7 +367,7 @@ Fórmulas de matrices dinámicas
 
 ## Instalación
 
-1. Abra Excel.
+1. Abra archivo ```BigNumber.xlsx```
 
 2. Vaya a:
 
